@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Alexis Montes",
 	"description": "basic boilerplate npm",
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
 	"license": "MIT",
 	"version": "1.0.0",
 	"dependencies": {
